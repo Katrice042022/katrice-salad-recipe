@@ -1,0 +1,52 @@
+body {
+  background-image: url();
+  background: brown;
+  color: #caa151;
+  font-family: "Roboto", san-serif;
+/*font-weight:  bold; */
+  }
+
+h1 {
+  font-family; "Berkshire Swash", sans-serif;
+  color: #caa151;
+  text-shadow: 3px 3px 3px; #510321;
+  font-style:oblique;
+/*font-size:  30px; */    
+} 
+
+h2 {
+    font-family; "Berkshire Swash", sans-serif;
+    color: green;
+    text-shadow: 3px 3px 3px; #510321;
+  font-style:oblique;
+}
+    
+p {
+    color: aqua;
+}
+
+li {
+color: burlywood;    
+}
+
+.wow {
+  width: 100px;
+}
+
+.container {
+  column-count: 2;
+}
+
+.skill {
+background-color: white;
+    
+}
+      
+figure
+ul
+li
+ol
+br
+span
+input
+fieldnet
